@@ -1,8 +1,6 @@
 import time
 dang = time.strftime('%H:%M:%S')
 
-
-
 def banner():
 	print("[+] Zekkel AR")
 	print("[+] Remove Duplicate")
